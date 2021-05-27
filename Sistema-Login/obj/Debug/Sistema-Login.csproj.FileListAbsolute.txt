@@ -1,0 +1,11 @@
+C:\Users\JÚLIO CÉSAR\Projetos\Sistema-Login\Sistema-Login\bin\Debug\Sistema-Login.exe.config
+C:\Users\JÚLIO CÉSAR\Projetos\Sistema-Login\Sistema-Login\bin\Debug\Sistema-Login.exe
+C:\Users\JÚLIO CÉSAR\Projetos\Sistema-Login\Sistema-Login\bin\Debug\Sistema-Login.pdb
+C:\Users\JÚLIO CÉSAR\Projetos\Sistema-Login\Sistema-Login\obj\Debug\Sistema-Login.csprojAssemblyReference.cache
+C:\Users\JÚLIO CÉSAR\Projetos\Sistema-Login\Sistema-Login\obj\Debug\Sistema_Login.Inicio.resources
+C:\Users\JÚLIO CÉSAR\Projetos\Sistema-Login\Sistema-Login\obj\Debug\Sistema_Login.Properties.Resources.resources
+C:\Users\JÚLIO CÉSAR\Projetos\Sistema-Login\Sistema-Login\obj\Debug\Sistema-Login.csproj.GenerateResource.cache
+C:\Users\JÚLIO CÉSAR\Projetos\Sistema-Login\Sistema-Login\obj\Debug\Sistema-Login.csproj.CoreCompileInputs.cache
+C:\Users\JÚLIO CÉSAR\Projetos\Sistema-Login\Sistema-Login\obj\Debug\Sistema-Login.exe
+C:\Users\JÚLIO CÉSAR\Projetos\Sistema-Login\Sistema-Login\obj\Debug\Sistema-Login.pdb
+C:\Users\JÚLIO CÉSAR\Projetos\Sistema-Login\Sistema-Login\obj\Debug\Sistema_Login.FormLogin.resources
